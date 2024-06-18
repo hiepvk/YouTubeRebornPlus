@@ -13,7 +13,7 @@
 [submodule "Tweaks/YouQuality"]
 	path = Tweaks/YouQuality
 	url = https://github.com/arichornloverALT/YouQuality.git
-	branch = main
+	branch = main-legacy
 [submodule "Tweaks/YTVideoOverlay"]
 	path = Tweaks/YTVideoOverlay
 	url = https://github.com/arichornloverALT/YTVideoOverlay.git
@@ -24,7 +24,7 @@
 	branch = uYouEnhanced
 [submodule "Tweaks/YouTubeHeader"]
 	path = Tweaks/YouTubeHeader
-	url = https://github.com/PoomSmart/YouTubeHeader.git
+	url = https://github.com/arichornlover/YouTubeHeader.git
 	branch = main
 [submodule "Tweaks/PSHeader"]
 	path = Tweaks/PSHeader
